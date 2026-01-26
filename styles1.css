@@ -6,9 +6,10 @@ p{
     width:70%;
     /* border: 1px; solid black; */
 }
-
-html{
-    background-image: url(https://unsplash.com/collections/e9zO7vkXwts);
+header {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
 }
 body {
     font-family: Arial, sans-serif;
@@ -33,4 +34,10 @@ img {
 ol {
     list-style-type: none;
     padding: 0;
+}
+p {
+    line-height: 1.6;
+    margin: 20px 0;
+    text-align: center;
+    color: #777;
 }

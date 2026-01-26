@@ -1,1 +1,1 @@
-# Photography-website
+The website has been created to showcase my prowess in photography and also display the pics taken that really make you sink into a world of your own.
