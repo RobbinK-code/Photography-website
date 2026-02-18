@@ -28,16 +28,14 @@ It includes a gallery, biography section, and a working contact form.
 ## ✨ Features
 - Introductory paragraph
 - Places gallery with images
-- Biography section with image
 - Functional contact form
 - Custom CSS styling
 
 ---
 
 ## 🧰 Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+- HTML
+- CSS
 
 ---
 
